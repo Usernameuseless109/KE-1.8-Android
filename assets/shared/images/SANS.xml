@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SANS.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sans Down Note0000" x="0" y="0" width="248" height="400" frameX="0" frameY="-4" frameWidth="248" frameHeight="404"/>
+	<SubTexture name="sans Down Note0001" x="0" y="0" width="248" height="400" frameX="0" frameY="-4" frameWidth="248" frameHeight="404"/>
+	<SubTexture name="sans Down Note0002" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0003" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0004" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0005" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0006" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0007" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0008" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0009" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Down Note0010" x="248" y="0" width="248" height="404"/>
+	<SubTexture name="sans Idle Dance0000" x="496" y="0" width="315" height="408" frameX="0" frameY="-9" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0001" x="496" y="0" width="315" height="408" frameX="0" frameY="-9" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0002" x="811" y="0" width="315" height="414" frameX="0" frameY="-3" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0003" x="811" y="0" width="315" height="414" frameX="0" frameY="-3" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0004" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0005" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0006" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0007" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0008" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0009" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0010" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0011" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0012" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0013" x="1126" y="0" width="315" height="417"/>
+	<SubTexture name="sans NOTE LEFT0000" x="1441" y="0" width="329" height="421" frameX="-1" frameY="0" frameWidth="332" frameHeight="421"/>
+	<SubTexture name="sans NOTE LEFT0001" x="1441" y="0" width="329" height="421" frameX="-1" frameY="0" frameWidth="332" frameHeight="421"/>
+	<SubTexture name="sans NOTE LEFT0002" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0003" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0004" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0005" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0006" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0007" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0008" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0009" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0010" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0011" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0012" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0013" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0014" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0015" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans NOTE LEFT0016" x="0" y="421" width="332" height="421"/>
+	<SubTexture name="sans Note Right0000" x="332" y="421" width="324" height="421"/>
+	<SubTexture name="sans Note Right0001" x="332" y="421" width="324" height="421"/>
+	<SubTexture name="sans Note Right0002" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0003" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0004" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0005" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0006" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0007" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0008" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0009" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0010" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0011" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0012" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0013" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0014" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0015" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Note Right0016" x="656" y="421" width="317" height="420" frameX="0" frameY="0" frameWidth="324" frameHeight="421"/>
+	<SubTexture name="sans Up note0000" x="973" y="421" width="272" height="419" frameX="0" frameY="-7" frameWidth="272" frameHeight="427"/>
+	<SubTexture name="sans Up note0001" x="973" y="421" width="272" height="419" frameX="0" frameY="-7" frameWidth="272" frameHeight="427"/>
+	<SubTexture name="sans Up note0002" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0003" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0004" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0005" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0006" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0007" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0008" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0009" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0010" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0011" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0012" x="1245" y="421" width="272" height="427"/>
+	<SubTexture name="sans Up note0013" x="1245" y="421" width="272" height="427"/>
+</TextureAtlas>

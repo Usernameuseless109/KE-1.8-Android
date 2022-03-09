@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sans_phase2_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angrysans Down Note0000" x="0" y="0" width="359" height="403" frameX="0" frameY="-2" frameWidth="359" frameHeight="405"/>
+	<SubTexture name="angrysans Down Note0001" x="0" y="0" width="359" height="403" frameX="0" frameY="-2" frameWidth="359" frameHeight="405"/>
+	<SubTexture name="angrysans Down Note0002" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0003" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0004" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0005" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0006" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0007" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0008" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0009" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Down Note0010" x="359" y="0" width="359" height="405"/>
+	<SubTexture name="angrysans Idle Dance0000" x="718" y="0" width="300" height="401" frameX="0" frameY="-11" frameWidth="300" frameHeight="412"/>
+	<SubTexture name="angrysans Idle Dance0001" x="718" y="0" width="300" height="401" frameX="0" frameY="-11" frameWidth="300" frameHeight="412"/>
+	<SubTexture name="angrysans Idle Dance0002" x="1018" y="0" width="300" height="407" frameX="0" frameY="-5" frameWidth="300" frameHeight="412"/>
+	<SubTexture name="angrysans Idle Dance0003" x="1018" y="0" width="300" height="407" frameX="0" frameY="-5" frameWidth="300" frameHeight="412"/>
+	<SubTexture name="angrysans Idle Dance0004" x="1318" y="0" width="300" height="411" frameX="0" frameY="-1" frameWidth="300" frameHeight="412"/>
+	<SubTexture name="angrysans Idle Dance0005" x="1318" y="0" width="300" height="411" frameX="0" frameY="-1" frameWidth="300" frameHeight="412"/>
+	<SubTexture name="angrysans Idle Dance0006" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans Idle Dance0007" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans Idle Dance0008" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans Idle Dance0009" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans Idle Dance0010" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans Idle Dance0011" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans Idle Dance0012" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans Idle Dance0013" x="1618" y="0" width="300" height="412"/>
+	<SubTexture name="angrysans NOTE LEFT0000" x="0" y="412" width="304" height="421"/>
+	<SubTexture name="angrysans NOTE LEFT0001" x="0" y="412" width="304" height="421"/>
+	<SubTexture name="angrysans NOTE LEFT0002" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0003" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0004" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0005" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0006" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0007" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0008" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0009" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0010" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0011" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0012" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0013" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0014" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0015" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans NOTE LEFT0016" x="304" y="412" width="300" height="421" frameX="-4" frameY="0" frameWidth="304" frameHeight="421"/>
+	<SubTexture name="angrysans Note Right0000" x="604" y="412" width="369" height="416"/>
+	<SubTexture name="angrysans Note Right0001" x="604" y="412" width="369" height="416"/>
+	<SubTexture name="angrysans Note Right0002" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0003" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0004" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0005" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0006" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0007" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0008" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0009" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0010" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0011" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0012" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0013" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0014" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0015" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Note Right0016" x="973" y="412" width="365" height="416" frameX="0" frameY="0" frameWidth="369" frameHeight="416"/>
+	<SubTexture name="angrysans Up note0000" x="1338" y="412" width="313" height="415" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="angrysans Up note0001" x="1338" y="412" width="313" height="415" frameX="0" frameY="-2" frameWidth="313" frameHeight="417"/>
+	<SubTexture name="angrysans Up note0002" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0003" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0004" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0005" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0006" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0007" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0008" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0009" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0010" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0011" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0012" x="1651" y="412" width="313" height="417"/>
+	<SubTexture name="angrysans Up note0013" x="1651" y="412" width="313" height="417"/>
+</TextureAtlas>
