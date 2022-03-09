@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="enter.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enter instance0001" x="0" y="0" width="1408" height="754"/>
+	<SubTexture name="enter instance0002" x="0" y="0" width="1408" height="754"/>
+	<SubTexture name="enterYellow instance0001" x="0" y="328" width="1408" height="754"/>
+	<SubTexture name="enterYellow instance0001" x="0" y="328" width="1408" height="754"/>
+	<SubTexture name="enterYellow instance0002" x="0" y="0" width="1408" height="754"/>
+	<SubTexture name="enterYellow instance0002" x="0" y="0" width="1408" height="754"/>
+</TextureAtlas>

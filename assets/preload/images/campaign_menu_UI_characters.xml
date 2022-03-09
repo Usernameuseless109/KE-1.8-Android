@@ -158,4 +158,18 @@
 	<SubTexture name="spooky dance idle BLACK LINES0013" x="2164" y="3066" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
 	<SubTexture name="spooky dance idle BLACK LINES0014" x="2531" y="3066" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
 	<SubTexture name="spooky dance idle BLACK LINES0015" x="2531" y="3066" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="sans Idle Dance0000" x="496" y="3638" width="315" height="408" frameX="0" frameY="-9" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0001" x="496" y="3638" width="315" height="408" frameX="0" frameY="-9" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0002" x="811" y="3638" width="315" height="414" frameX="0" frameY="-3" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0003" x="811" y="3638" width="315" height="414" frameX="0" frameY="-3" frameWidth="315" frameHeight="417"/>
+	<SubTexture name="sans Idle Dance0004" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0005" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0006" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0007" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0008" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0009" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0010" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0011" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0012" x="1126" y="3638" width="315" height="417"/>
+	<SubTexture name="sans Idle Dance0013" x="1126" y="3638" width="315" height="417"/>
 </TextureAtlas>
